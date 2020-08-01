@@ -5,7 +5,9 @@ This repository contains the Matlab scripts files that are needed to analyze the
 Recommended File Format: TIF, 1024*1024, 8-bit Gray Scale, 300k - 500k 
 
 ### Dependencies
-MATLAB and Image Processing Toolbox 
+Required product: MATLAB and Image Processing Toolbox 
+Please use the follow command to find the file dependencies. 
+[flist,plist]=matlab.codetools.requiredFilesAndProducts('Filename.m')
 
 ### Platform 
 This tool is verified by executing on MATLAB 2009a (Windows XP) and MATLAB R2019a (Windows 10) and the associated image processing toolbox. 
@@ -22,6 +24,10 @@ Extract the zip file from the website. Then, start Matlab and set the current pa
 ### Auxiliary program
 plot_scale.m
 Find_out_scale_simple.m
+
+### Tutorial
+ImageAnalysisToolTutorial.ppt
+Some line numbers are outdated so please refer to the variable names and search in the code when the line numbers does not match with the variable names. 
 
 ### Reference
 Kuen Yehliu, Randy L. Vander Wal, André L.Boehman, Development of an HRTEM image analysis method to quantify carbon nanostructure, Combustion and Flame, Volume 158, Issue 9, September 2011, Pages 1837-1851
