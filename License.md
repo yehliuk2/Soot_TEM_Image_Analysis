@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Kuen Yehliu, André Boehman, Randy L. Vander Wal
+Copyright (c) 2022 Kuen Yehliu, Randy L. Vander Wal, André Boehman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
