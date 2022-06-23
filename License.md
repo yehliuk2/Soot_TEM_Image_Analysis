@@ -1,10 +1,13 @@
 #This top section modifies the scope of the MIT License
 Copyright (c) 2022 Kuen Yehliu, Randy L. Vander Wal, André Boehman
 
-Permission: The person can use, copy, modify, merge for any academic resesearch purpose
-Restriction: The person CANNOT publish, distribute, sublicense, and/or sell copies of the Software. 
+Permission: The person can use, copy, modify, merge for any academic 
+resesearch purpose.
+Restriction: The person CANNOT publish, distribute, sublicense, and/or 
+sell copies of the Software. 
 
-The above statement which modifies the MIT License shall be inclded in all copies or substantial portions of the Software. 
+The above statement which modifies the MIT License shall be inclded in 
+all copies or substantial portions of the Software. 
 
 
 #MIT License
