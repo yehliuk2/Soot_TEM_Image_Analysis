@@ -1,4 +1,4 @@
-# SootTEM_ImageAnalysis
+# Soot TEM Image Analysis Tool
 This repository contains the Matlab scripts files that are needed to analyze the nanostructure of the TEM images of soot 
 
 ### Recommended File Format and Magnification
